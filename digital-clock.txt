@@ -1,0 +1,9 @@
+자바스크립트 초보자 연습용 프로젝트 - 자바스크립트 시계 만들기
+
+1. 에디터 : Visual Studio Code
+2. 사용언어 : HTML, CSS, JavaScript 
+3. 핵심 포인트
+- document.getElementById()
+- new Date()
+- setInterval()
+- clearInterval()
